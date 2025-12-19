@@ -14,17 +14,26 @@
 ---
 
 ### 👨‍💻 About Me
+```javascript
+const rashid = {
+    pronouns: "He" | "Him",
+    location: "India 🇮🇳",
+    currentRole: "Full Stack Developer",
+    currentlyLearning: ["Advanced React Patterns", "System Design", "PostgreSQL Optimization"],
+    techCommunities: {
+        learning: "Building in public",
+        interests: ["Web Development", "API Design", "Database Architecture"]
+    },
+    funFact: "I turn coffee into code ☕️ → 💻"
+};
+```
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-- 🔭 Currently working on **Full Stack Web Applications using MERN Stack**
-- 🌱 Learning **Advanced React Patterns, System Design & PostgreSQL Optimization**
+- 🔭 I'm currently working on **Full Stack Web Applications using MERN Stack**
+- 🌱 Constantly learning **React Advanced Patterns, Node.js Best Practices & SQL Optimization**
 - 💬 Ask me about **JavaScript, React, Node.js, Express, MySQL, PostgreSQL**
-- 📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/rashid-sidhpura-232610336)** | **rashid.sidhpurarashid@gmail.com**
-- ⚡ Fun fact: **I turn coffee into code ☕️ → 💻**
+- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/rashid-sidhpura-232610336)**
+- ⚡ Fun fact: **I love turning ideas into reality through code!**
 - 🎯 2025 Goals: **Contribute to Open Source & Build SaaS products**
-
-<br clear="both">
 
 ---
 
@@ -52,7 +61,7 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white" alt="REST API" />
+<img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white" alt="REST API" />
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" />
 </div>
 </td>
@@ -105,11 +114,21 @@
 
 ---
 
+### 💼 Experience & Projects
+```mermaid
+graph LR
+    A[Full Stack Development] --> B[Frontend]
+    A --> C[Backend]
+    A --> D[Database]
+    B --> E[React & Redux]
+    B --> F[Responsive Design]
+    C --> G[RESTful APIs]
+    C --> H[Authentication]
+    D --> I[SQL Optimization]
+    D --> J[Database Design]
+```
 
-
----
-
-### 🚀 Featured Projects
+#### 🚀 Featured Projects
 
 <div align="center">
 
@@ -123,7 +142,10 @@
 
 ---
 
-### 📈 GitHub Activity Graph
+### 📈 Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidhpurarashid&theme=tokyonight" alt="Profile Summary" />
@@ -131,7 +153,7 @@
 
 ---
 
-### 🎯 Current Focus
+### 🎯 What I'm Up To
 
 - 🔨 Building scalable **MERN Stack applications**
 - 📚 Learning **System Design & Architecture**
@@ -151,15 +173,14 @@
 
 ### 🐍 Contribution Snake
 
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sidhpurarashid/sidhpurarashid/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sidhpurarashid/sidhpurarashid/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sidhpurarashid/sidhpurarashid/output/github-contribution-grid-snake.svg">
-</picture> -->
+<!-- <div align="center">
+  <img src="https://raw.githubusercontent.com/sidhpurarashid/sidhpurarashid/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div> -->
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
+
 ---
 
 ### 🤝 Connect With Me
@@ -168,11 +189,14 @@
   <a href="https://www.linkedin.com/in/rashid-sidhpura-232610336" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:rashid.sidhpurarashid@gmail.com">
+  <a href="mailto:rashid.sidhpura@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/sidhpurarashid">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
