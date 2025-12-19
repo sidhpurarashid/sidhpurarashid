@@ -105,26 +105,6 @@
 
 ---
 
-### 💼 What I Do
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-const rashid = {
-    code: ["JavaScript", "HTML", "CSS", "SQL"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Redux"],
-            css: ["Tailwind CSS", "Bootstrap"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express.js"],
-        },
-        databases: ["MySQL", "PostgreSQL"],
-        tools: ["Git", "GitHub", "VS Code", "Postman"]
-    },
-    currentFocus: "Building scalable MERN applications",
-    funFact: "Debugging is like being a detective in a crime movie where you're also the murderer 🕵️"
-};
 
 
 ---
@@ -171,12 +151,15 @@ const rashid = {
 
 ### 🐍 Contribution Snake
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sidhpurarashid/sidhpurarashid/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sidhpurarashid/sidhpurarashid/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sidhpurarashid/sidhpurarashid/output/github-contribution-grid-snake.svg">
-</picture>
+</picture> -->
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 ---
 
 ### 🤝 Connect With Me
