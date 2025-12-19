@@ -14,26 +14,17 @@
 ---
 
 ### 👨‍💻 About Me
-```javascript
-const rashid = {
-    pronouns: "He" | "Him",
-    location: "India 🇮🇳",
-    currentRole: "Full Stack Developer",
-    currentlyLearning: ["Advanced React Patterns", "System Design", "PostgreSQL Optimization"],
-    techCommunities: {
-        learning: "Building in public",
-        interests: ["Web Development", "API Design", "Database Architecture"]
-    },
-    funFact: "I turn coffee into code ☕️ → 💻"
-};
-```
 
-- 🔭 I'm currently working on **Full Stack Web Applications using MERN Stack**
-- 🌱 Constantly learning **React Advanced Patterns, Node.js Best Practices & SQL Optimization**
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+- 🔭 Currently working on **Full Stack Web Applications using MERN Stack**
+- 🌱 Learning **Advanced React Patterns, System Design & PostgreSQL Optimization**
 - 💬 Ask me about **JavaScript, React, Node.js, Express, MySQL, PostgreSQL**
-- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/rashid-sidhpura-232610336)**
-- ⚡ Fun fact: **I love turning ideas into reality through code!**
+- 📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/rashid-sidhpura-232610336)** | **rashid.sidhpurarashid@gmail.com**
+- ⚡ Fun fact: **I turn coffee into code ☕️ → 💻**
 - 🎯 2025 Goals: **Contribute to Open Source & Build SaaS products**
+
+<br clear="both">
 
 ---
 
@@ -61,7 +52,7 @@ const rashid = {
 <div align="center">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white" alt="REST API" />
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white" alt="REST API" />
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" />
 </div>
 </td>
@@ -114,21 +105,31 @@ const rashid = {
 
 ---
 
-### 💼 Experience & Projects
-```mermaid
-graph LR
-    A[Full Stack Development] --> B[Frontend]
-    A --> C[Backend]
-    A --> D[Database]
-    B --> E[React & Redux]
-    B --> F[Responsive Design]
-    C --> G[RESTful APIs]
-    C --> H[Authentication]
-    D --> I[SQL Optimization]
-    D --> J[Database Design]
+### 💼 What I Do
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+```javascript
+const rashid = {
+    code: ["JavaScript", "HTML", "CSS", "SQL"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Redux"],
+            css: ["Tailwind CSS", "Bootstrap"]
+        },
+        backEnd: {
+            js: ["Node.js", "Express.js"],
+        },
+        databases: ["MySQL", "PostgreSQL"],
+        tools: ["Git", "GitHub", "VS Code", "Postman"]
+    },
+    currentFocus: "Building scalable MERN applications",
+    funFact: "Debugging is like being a detective in a crime movie where you're also the murderer 🕵️"
+};
 ```
 
-#### 🚀 Featured Projects
+---
+
+### 🚀 Featured Projects
 
 <div align="center">
 
@@ -142,10 +143,7 @@ graph LR
 
 ---
 
-### 📈 Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+### 📈 GitHub Activity Graph
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidhpurarashid&theme=tokyonight" alt="Profile Summary" />
@@ -153,7 +151,7 @@ graph LR
 
 ---
 
-### 🎯 What I'm Up To
+### 🎯 Current Focus
 
 - 🔨 Building scalable **MERN Stack applications**
 - 📚 Learning **System Design & Architecture**
@@ -173,9 +171,11 @@ graph LR
 
 ### 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sidhpurarashid/sidhpurarashid/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sidhpurarashid/sidhpurarashid/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sidhpurarashid/sidhpurarashid/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sidhpurarashid/sidhpurarashid/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
@@ -190,9 +190,6 @@ graph LR
   </a>
   <a href="https://github.com/sidhpurarashid">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
