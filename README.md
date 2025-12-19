@@ -84,9 +84,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidhpurarashid&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidhpurarashid&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidhpurarashid&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
@@ -96,9 +96,9 @@
 
 ### 🏆 GitHub Achievements
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sidhpurarashid&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
-</p>
+</p> -->
 
 ---
 
