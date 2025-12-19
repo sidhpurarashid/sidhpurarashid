@@ -13,19 +13,7 @@
 
 ---
 
-### 👨‍💻 About Me
 
-const rashid = {
-    pronouns: "He" | "Him",
-    location: "India 🇮🇳",
-    currentRole: "Full Stack Developer",
-    currentlyLearning: ["Advanced React Patterns", "System Design", "PostgreSQL Optimization"],
-    techCommunities: {
-        learning: "Building in public",
-        interests: ["Web Development", "API Design", "Database Architecture"]
-    },
-    funFact: "I turn coffee into code ☕️ → 💻"
-};
 
 
 - 🔭 I'm currently working on **Full Stack Web Applications using MERN Stack**
