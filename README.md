@@ -104,20 +104,28 @@
 </p>
 
 ---
-## 💼 What I Do
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
-</p>
+### 💼 What I Do
 
-```js
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+```javascript
 const rashid = {
-  role: "Full Stack Developer",
-  frontend: ["React", "Redux", "Tailwind"],
-  backend: ["Node.js", "Express"],
-  database: ["MySQL", "PostgreSQL"],
-  focus: "Scalable MERN Applications"
+    code: ["JavaScript", "HTML", "CSS", "SQL"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Redux"],
+            css: ["Tailwind CSS", "Bootstrap"]
+        },
+        backEnd: {
+            js: ["Node.js", "Express.js"],
+        },
+        databases: ["MySQL", "PostgreSQL"],
+        tools: ["Git", "GitHub", "VS Code", "Postman"]
+    },
+    currentFocus: "Building scalable MERN applications",
+    funFact: "Debugging is like being a detective in a crime movie where you're also the murderer 🕵️"
 };
+```
 
 ---
 
