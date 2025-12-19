@@ -14,7 +14,7 @@
 ---
 
 ### 👨‍💻 About Me
-```javascript
+
 const rashid = {
     pronouns: "He" | "Him",
     location: "India 🇮🇳",
@@ -26,7 +26,7 @@ const rashid = {
     },
     funFact: "I turn coffee into code ☕️ → 💻"
 };
-```
+
 
 - 🔭 I'm currently working on **Full Stack Web Applications using MERN Stack**
 - 🌱 Constantly learning **React Advanced Patterns, Node.js Best Practices & SQL Optimization**
