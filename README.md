@@ -108,7 +108,7 @@
 ### 💼 What I Do
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
+```javascript
 const rashid = {
     code: ["JavaScript", "HTML", "CSS", "SQL"],
     technologies: {
@@ -125,7 +125,7 @@ const rashid = {
     currentFocus: "Building scalable MERN applications",
     funFact: "Debugging is like being a detective in a crime movie where you're also the murderer 🕵️"
 };
-
+```
 
 ---
 
